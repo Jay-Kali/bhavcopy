@@ -52,6 +52,7 @@ After downloading both files, extract them together to obtain the executable.
 4. Run the executable file.
 5. Select the required date range.
 6. Start downloading Bhavcopy data.
+7. For more information check HELP.txt file.
 
 ---
 
@@ -89,4 +90,5 @@ Developed by **Dhananjay Awachat**
 
 GitHub:  
 https://github.com/Jay-Kali
+
 
